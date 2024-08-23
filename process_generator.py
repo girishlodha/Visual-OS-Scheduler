@@ -6,7 +6,7 @@ Each process has a set of parameters. Each parameter is generated randomly follo
 indicated:
 1. Arrival Time : follows Normaldistribution
 2. Burst Time : follows Normaldistribution
-3. Priority : follows Poissondistribution
+3. Priority : folows Poissondistribution
 
 Input:is a text file organized as follows:
  First lineshould include the number of processes.
